@@ -19,7 +19,9 @@ nav a {
   background: #FF00D3;
 }
 
-figcaption {text-align: center;}
+figcaption {text-align: center;
+background: #FF00D3;
+}
 
 #featured-property p {
   width: 800px;
