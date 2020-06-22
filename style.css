@@ -4,7 +4,9 @@ body {
   margin: 0;
 }
 
-h1 {text-align: center;}
+h1 {text-align: center;
+background: #59F7FF;
+}
 
 img {
   display: block;
@@ -34,7 +36,6 @@ footer {
   text-align: center;
   width: 100%;
   background: #59F7FF;
-
 }
 
 #details > div {
